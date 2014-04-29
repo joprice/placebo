@@ -1,4 +1,4 @@
-package com.github.joprice
+package com.github.joprice.placebo
 
 object Test {
 

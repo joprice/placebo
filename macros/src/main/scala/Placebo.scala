@@ -1,4 +1,4 @@
-package com.github.joprice
+package com.github.joprice.placebo
 
 import scala.language.experimental.macros
 import scala.language.dynamics
